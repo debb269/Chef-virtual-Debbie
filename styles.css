@@ -39,7 +39,7 @@ nav {
 }
 
 .hero-header {
-  background-image: url("../imagenes/banner.jpg");
+  background-image: url("./imagenes/banner.jpg");
   background-size: cover;
   background-position: right center;
   color: #ffffff;
